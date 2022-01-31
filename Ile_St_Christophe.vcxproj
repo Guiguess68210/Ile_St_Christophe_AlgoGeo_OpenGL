@@ -78,8 +78,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe\Librairies\include;$(IncludePath)</IncludePath>
-    <LibraryPath>E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe\Librairies\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Librairies\include;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Librairies\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="carte.h" />
     <ClInclude Include="enveloppe.h" />
+    <ClInclude Include="Librairies\include\linmath.h" />
     <ClInclude Include="point.h" />
   </ItemGroup>
   <ItemGroup>

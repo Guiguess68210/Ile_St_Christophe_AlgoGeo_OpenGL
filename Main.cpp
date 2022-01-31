@@ -146,38 +146,38 @@ static void segment(DemiCote* demiCoteA, DemiCote* demiCoteB) {
 	float demiCoteAx, demiCoteAy, demiCoteAz, demiCoteAr, demiCoteAg, demiCoteAb,
 		demiCoteBx, demiCoteBy, demiCoteBz, demiCoteBr, demiCoteBg, demiCoteBb;
 
-	demiCoteAx = (((float(demiCoteA->coordonnees().x()))) / 1000) - 1;
-	demiCoteAy = (((float(demiCoteA->coordonnees().y()))) / 1000) - 1;
-	demiCoteAz = (((float(demiCoteA->coordonnees().z()))) / 1000) - 1;
+	demiCoteAx = (((float(demiCoteA->coordonnees().x()) * 2)) / 1000) - 1;
+	demiCoteAy = (((float(demiCoteA->coordonnees().y()) * 2)) / 1000) - 1;
+	demiCoteAz = (((float(demiCoteA->coordonnees().z()) * 2)) / 800) - 1;
 	if (demiCoteA->coordonnees().z() <= 0)
 	{
 		demiCoteAr = 0.0;
-		demiCoteAg = 1.0;
-		demiCoteAb = 1.0;
+		demiCoteAg = 0.5;
+		demiCoteAb = 0.5;
 	}
 	else if ((demiCoteA->coordonnees().z() < (30 / 3))) {
 		demiCoteAr = 0.1;
-		demiCoteAg = 1.0;
+		demiCoteAg = 0.5;
 		demiCoteAb = 0.1;
 	}
 	else {
 		demiCoteAr = 0.5;
 		demiCoteAg = 0.35;
-		demiCoteAb = 0.05;
+		demiCoteAb = 0.06;
 	}
 
-	demiCoteBx = (((float(demiCoteB->coordonnees().x()))) / 1000) - 1;
-	demiCoteBy = (((float(demiCoteB->coordonnees().y()))) / 1000) - 1;
-	demiCoteBz = (((float(demiCoteB->coordonnees().z()))) / 1000) - 1;
+	demiCoteBx = (((float(demiCoteB->coordonnees().x()) * 2)) / 1000) - 1;
+	demiCoteBy = (((float(demiCoteB->coordonnees().y()) * 2)) / 1000) - 1;
+	demiCoteBz = (((float(demiCoteB->coordonnees().z()) * 2)) / 800) - 1;
 	if (demiCoteA->coordonnees().z() <= 0)
 	{
 		demiCoteBr = 0.0;
-		demiCoteBg = 1.0;
-		demiCoteBb = 1.0;
+		demiCoteBg = 0.5;
+		demiCoteBb = 0.5;
 	}
 	else if ((demiCoteB->coordonnees().z() < (30 / 3))) {
 		demiCoteBr = 0.1;
-		demiCoteBg = 1.0;
+		demiCoteBg = 0.5;
 		demiCoteBb = 0.1;
 	}
 	else {
