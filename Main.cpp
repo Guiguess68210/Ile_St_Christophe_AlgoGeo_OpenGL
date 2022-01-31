@@ -23,7 +23,6 @@
 #include <stack>
 #include <fstream>
 #include <sstream>
-#include "vertice.h"
 #include <array>
 
 static int tourner = 1;
