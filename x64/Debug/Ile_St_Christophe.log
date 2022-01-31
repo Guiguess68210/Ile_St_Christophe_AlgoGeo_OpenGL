@@ -1,2 +1,43 @@
-﻿  glad.c
-E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\glad.c(639,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'glad/glad.h' : No such file or directory
+﻿  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY' : redéfinition de macro
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Librairies\include\glad\glad.h(646): message : voir la définition précédente de 'APIENTRY'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\point.h(29,19): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\carte.h(103,25): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\carte.h(207,1): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\carte.h(227,1): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(100,34): warning C4305: '+=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(101,34): warning C4305: '+=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(112,27): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(113,26): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(117,10): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(118,10): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(159,19): warning C4305: '=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(161,19): warning C4305: '=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(165,20): warning C4305: '=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(166,20): warning C4305: '=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(179,19): warning C4305: '=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(181,19): warning C4305: '=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(185,20): warning C4305: '=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(186,20): warning C4305: '=' : troncation de 'double' à 'float'
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(305,39): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(391,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(391,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(391,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(394,42): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\Main.cpp(499,21): warning C4101: 't' : variable locale non référencée
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(init.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(window.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(input.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(context.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(win32_init.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(win32_monitor.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(win32_time.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(win32_thread.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(monitor.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(vulkan.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(win32_window.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(win32_joystick.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(wgl_context.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(egl_context.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw3.pdb' n'a pu être trouvé avec 'glfw3.lib(osmesa_context.obj)' ou sur 'E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\glfw3.pdb' ; l'objet sera lié sans informations de débogage
+  Ile_St_Christophe.vcxproj -> E:\Master 4.0.4\Triangulation\Ile_Saint_Christophe\Ile_St_Christophe_AlgoGeo_OpenGL\x64\Debug\Ile_St_Christophe.exe

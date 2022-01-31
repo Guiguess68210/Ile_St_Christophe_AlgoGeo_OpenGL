@@ -7,6 +7,8 @@
 ### General Info
 ***
 Représentation de l'île de Saint Christophe avec OpenGL codé en c++
+### Screenshot
+![Screenshot Isle]((ScreenshotIsle.png))
 ## Technologies
 ***
 A list of technologies used within the project:
